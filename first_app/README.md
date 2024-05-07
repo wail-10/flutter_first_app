@@ -1,16 +1,3 @@
-# first_app
+# flutter first_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dans cette application, j'ai essayé de réaliser une application simple qui contient une app bar avec un titre. Le corps de l'application contient du texte qui est modifié à l'aide d'un bouton flottant. De plus, cette application contient un menu créé en utilisant le widget Drawer, lequel inclut une image et trois autres éléments.
